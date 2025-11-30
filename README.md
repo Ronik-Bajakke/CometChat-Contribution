@@ -52,9 +52,11 @@ Explored UI clarity, navigation, and opened the **UI Kit Builder**.
 
 ### ▶️ Run Project
 
+```bash
 cd comet-chat-app
 npm install @cometchat/chat-uikit-react@6.3.2 @cometchat/calls-sdk-javascript
 npm run dev
+```
 
 ---
 
@@ -81,7 +83,7 @@ All screens were tested after successful login using the configured App ID, Regi
 ![Chat](/Assets/dashboard.png) 
 
 ### Group Chat UI 
-![Group](/group/dashboard.png)
+![Group](/Assets/group.png)
 
 ### Call UI 
 ![Call](/Assets/call.png)
