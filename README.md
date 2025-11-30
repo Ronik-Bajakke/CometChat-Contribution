@@ -1,16 +1,14 @@
 # 🚀 CometChat Internship Task – UI Kit Implementation (React)
 
-**Author:** Ronik Bajakke  
-**Email:** ronikbajakke172913@gmail.com  
-**Test Email:** ronikbajakke172913+test@gmail.com  
-**Tech Stack:** React (Vite)   
-
----
+![Banner](/Assets/cometchatbanner.png)
 
 ## 📖 Overview  
 
+Tech Stack:React(Vite)
+
 This repository contains my implementation of the **CometChat React UI Kit** for the Internship Task.  
 Using the required **+test Gmail**, I created a CometChat app, explored the dashboard, configured the UI Kit inside the **UI Kit Builder**, downloaded the React project, and implemented it locally.
+
 
 ---
 
@@ -20,6 +18,7 @@ Created a new account using the test Gmail and then created a CometChat applicat
 
 ### ➕ Sign Up  
 ![Login](/Assets/login.png)
+
 ---
 
 ## 🧭 2. Explore Dashboard & UI Kit Builder  
@@ -28,7 +27,7 @@ Explored UI clarity, navigation, and opened the **UI Kit Builder**.
 
 ### ➕ Dashboard  
 ![Login](/Assets/dashboard.png)
----
+
 
 ## ⚙️ 3. Configure & Download UI Kit  
 
@@ -73,10 +72,25 @@ npm run dev
 ![bug](/Assets/bug4.png)
 
 ---
+### 📸 Feature Implementation Summary
+
+Below are the key CometChat UI features I implemented using the React UI Kit.
+All screens were tested after successful login using the configured App ID, Region, and Auth Key.
+
+### Chat UI  
+![Chat](/Assets/dashboard.png) 
+
+### Group Chat UI 
+![Group](/group/dashboard.png)
+
+### Call UI 
+![Call](/Assets/call.png)
+
 
 ## 🗂️ Folder Structure
 ```bash
 comet-chat-app/
+├── Assets
 ├── public/
 ├── src/
 │   ├── assets/
@@ -85,6 +99,12 @@ comet-chat-app/
 │   ├── App.tsx
 │   ├── index.css
 │   └── main.tsx
+├── tsconfig.json
+├── tsconfig.json
+├── tsconfig.node.json
+├── vite.config.ts
+├── package.json
+├── package-lock.json
 └── index.html
 ```
 ---
