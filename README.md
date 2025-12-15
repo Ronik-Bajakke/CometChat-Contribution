@@ -144,5 +144,5 @@ A separate PDF CometChat-Ronik-Bajakke.pdf is included summarizing findings for 
 **Ronik Bajakke**  
 📧 Email: ronikbajakke172913@gmail.com  
 📧 Test Email: ronikbajakke172913+test@gmail.com  
-🌐 GitHub: https://github.com/Ronik-Bajakke
+🌐 GitHub: https://github.com/Ronik-Bajakke<br>
 🌐 Portfolio: https://portfolio-nine-lyart-56.vercel.app/
